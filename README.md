@@ -61,4 +61,5 @@ NutriMap uses **Botpress**, an open-source conversational AI platform, to:
 git clone https://github.com/your-username/nutri-map.git
 cd nutri-map
 
-2.You can use the following link to 
+2.You can use the following link to to go to our app:-
+https://nutri-map-eight.vercel.app/
