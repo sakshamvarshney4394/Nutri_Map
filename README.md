@@ -1,33 +1,64 @@
-# 🍎 Nutri-Map Chatbot
+# 🍎 NutriMap – Your Personalized Indian Health Chatbot 🇮🇳
 
-Welcome to **NutriMap**, a web application with an integrated chatbot that provides users with personalized nutrition advice and recommendations. The goal of this project is to help individuals make informed dietary choices through an intuitive, user-friendly platform.
+**NutriMap** is a region-aware, cost-conscious health and nutrition chatbot built specifically for Indian users. It provides **personalized diet plans** based on your **health conditions**, **regional food preferences**, and **budget** – all through a **Botpress-powered conversational interface**.
+
+Whether you're managing diabetes, aiming for weight loss, or just trying to eat healthy with traditional Indian food, NutriMap has got your plate full — the smart way.
+
+---
+
+## 🤖 Powered by Botpress
+
+NutriMap uses **Botpress**, an open-source conversational AI platform, to:
+- Understand user inputs through natural language
+- Dynamically guide health conversations
+- Match users with the most relevant diet plans
+- Deliver a responsive chatbot experience within the browser
+
+✅ Botpress Features Used:
+- Flow builder for conversation mapping  
+- Q&A and NLU modules for interpreting inputs  
+- Webchat integration for real-time interaction  
+- Custom actions for connecting to regional diet databases
 
 ---
 
 ## 🚀 Features
 
-- **Interactive Chatbot**: Offers personalized nutrition guidance through a conversational interface.
-- **Nutrition Facts**: Provides detailed information on various foods and their health benefits.
-- **User-Friendly Interface**: Built with HTML and CSS for a clean and responsive design.
-- **Future Expansion**: Designed for future integration of AI and advanced APIs to improve user experience.
+🔹 **Conversational Chatbot** (via Botpress)  
+🔹 **Health-Focused Meal Suggestions**  
+🔹 **Local + Budget-Friendly Dish Recommender**  
+🔹 **Region-Specific Cuisine Guidance** (e.g., South Indian, Gujarati, Bengali)  
+🔹 **Responsive Web UI** – Works across devices  
+🔹 **Future-Proof Design** for AI & API integration
 
 ---
 
-## 🛠️ Technologies Used
+## 🧰 Tech Stack
 
-- **Frontend**:
-  - HTML5 for structuring the web pages.
-  - CSS3 for styling and creating responsive layouts.
-  - JavaScript for dynamic behavior and chatbot functionality.
-
-- **Backend** (Future Scope):
-  - Integration with APIs for nutrition data (e.g., Edamam API, Nutritionix API).
-  - Backend framework (Node.js or Flask) to enhance functionality.
+| Layer        | Technology                         |
+|--------------|-------------------------------------|
+| Frontend     | HTML5, CSS3, JavaScript             |
+| Chatbot      | [Botpress](https://botpress.com) (v12+) |
+| Hosting      | GitHub Pages / Netlify / Localhost |
+| Backend (Planned) | Node.js / Flask for extended logic |
+| Data (Future) | Nutrition APIs, region-specific JSON data |
 
 ---
 
 ## 🎯 Project Objectives
 
-1. **Educate Users**: Make nutritional information accessible and easy to understand.
-2. **Personalized Experience**: Provide users with tailored suggestions based on their inputs.
-3. **Expand Knowledge**: Encourage healthier eating habits by offering insights into food choices.
+- 🧠 Simplify complex nutrition advice through **chat**
+- 📍 Provide food suggestions based on **region + budget**
+- ❤️ Help users with **health conditions** make smart food choices
+- 📚 Educate users using **local, accessible** meals instead of generic diet charts
+
+---
+
+## 🧪 How to Run the Project Locally
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/nutri-map.git
+cd nutri-map
+
+2.You can use the following link to 
